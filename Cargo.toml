@@ -1,0 +1,8 @@
+[package]
+name = "lucas"
+version = "0.1.0"
+authors = ["Benjamin Herman <benjamin@metanomial.com>"]
+edition = "2021"
+
+[dependencies]
+clap = { version = "3.2.12", features = ["derive"] }
